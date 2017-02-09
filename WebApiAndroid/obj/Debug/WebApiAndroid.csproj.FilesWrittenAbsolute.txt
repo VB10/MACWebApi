@@ -1,0 +1,16 @@
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/WebApiAndroid.dll.mdb
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/WebApiAndroid.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/obj/Debug/WebApiAndroid.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/obj/Debug/WebApiAndroid.dll.mdb
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.Razor.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/Microsoft.Web.Infrastructure.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.Helpers.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.WebPages.Deployment.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.WebPages.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.WebPages.Razor.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.Mvc.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Net.Http.Formatting.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.Http.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/System.Web.Http.WebHost.dll
+/Users/vb/Projects/WebApiAndroid/WebApiAndroid/bin/Newtonsoft.Json.dll
